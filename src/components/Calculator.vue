@@ -71,7 +71,7 @@ export default {
 
 .keys {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(4, 24px);
 }
 
 .operator {
